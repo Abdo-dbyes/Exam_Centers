@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Exam_Centers/static/css/main.da6e0b63.css",
+    "main.js": "/Exam_Centers/static/js/main.01a18018.js",
+    "index.html": "/Exam_Centers/index.html",
+    "main.da6e0b63.css.map": "/Exam_Centers/static/css/main.da6e0b63.css.map",
+    "main.01a18018.js.map": "/Exam_Centers/static/js/main.01a18018.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da6e0b63.css",
+    "static/js/main.01a18018.js"
+  ]
+}
